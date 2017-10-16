@@ -10,3 +10,6 @@ Enchildas
 Pizza
 Meat within buns
 Buns
+Milk
+Cookies
+Bananas
